@@ -2,22 +2,26 @@
 
 ## 🇧🇷 O que eu aprendo
 
-Na disciplina de Programação Mobile dentro do curso de Ciência da Computação, exploramos o desenvolvimento de aplicativos para dispositivos móveis, abrangendo:
+Na disciplina de Ciência da Computação, exploramos diversas áreas que incluem:
 
-- Desenvolvimento de interfaces de usuário adaptáveis e intuitivas.
-- Linguagens como Java e Kotlin para Android, Swift para iOS.
-- Utilização de frameworks e SDKs específicos para cada plataforma.
-- Implementação de funcionalidades avançadas como geolocalização, câmera e notificações push.
+- Fundamentos de algoritmos e estruturas de dados.
+- Teoria da computação e complexidade.
+- Arquitetura de computadores e sistemas operacionais.
+- Redes de computadores e segurança da informação.
+- Banco de dados e sistemas de gerenciamento.
+- Inteligência artificial e aprendizado de máquina.
 
 **Obs:** Eu criei esse repositório por criar, talvez eu use. 😄
 
 ## 🇬🇧 What I Learn
 
-In the Mobile Programming course within the Computer Science program, we delve into the development of mobile applications, covering:
+In the Computer Science program, we delve into various areas including:
 
-- Building adaptive and intuitive user interfaces.
-- Languages such as Java and Kotlin for Android, Swift for iOS.
-- Utilizing platform-specific frameworks and SDKs.
-- Implementing advanced functionalities like geolocation, camera, and push notifications.
+- Fundamentals of algorithms and data structures.
+- Theory of computation and complexity.
+- Computer architecture and operating systems.
+- Computer networks and information security.
+- Databases and management systems.
+- Artificial intelligence and machine learning.
 
 **Note:** I created this repository just for the sake of it, maybe I'll use it. 😄
